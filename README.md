@@ -4,7 +4,7 @@ A Landing Page for the company Say Your Bet. I built the page in two weeks (just
 
 I used:  **MongoDB, Express, React, Node.js**. 
 
-The challenge was a button able to translate from French to English, therefore I used Redux.
+The challenge was a button able to translate from French to English, therefore I used **Redux**.
 
 How to open the LandingPage---Say-Your-Bet ? 
 1) Download the file
